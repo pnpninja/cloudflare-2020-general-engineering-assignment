@@ -1,0 +1,4 @@
+name = "prateek-cloudflare"
+type = "webpack"
+workers_dev = true
+account_id = "8160c7e085cda8bdf762ceadc0038718"

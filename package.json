@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "prateek-cloudflare",
+  "version": "1.0.0",
+  "description": "Cloudflare General Coding Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Prateek Narendra <prateeknar@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
